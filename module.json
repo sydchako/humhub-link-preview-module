@@ -1,0 +1,5 @@
+{
+  "id":"sytvillinkpreview","name":"Sytvil Link Preview","description":"Automatic rich, cached and privacy-friendly previews for links posted in HumHub posts and comments.",
+  "keywords":["link","preview","open graph","twitter cards","posts","comments","cache","favicon"],"version":"2.0.0",
+  "humhub":{"minVersion":"1.18.2"},"homepage":"https://sytvil.site/","authors":[{"name":"Sydney Chako"}]
+}
